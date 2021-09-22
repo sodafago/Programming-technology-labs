@@ -1,2 +1,2 @@
 # Programming-technology-labs
-Labs for course "Prigramming technology".
+Labs for course "Programming technology".
